@@ -17,6 +17,7 @@ body {
 #fortune-here {
   display: block;
   text-align: center;
+  font-size: 40px;
 }
 
 #pickColor {
@@ -28,4 +29,17 @@ body {
 #color {
   display: block;
   text-align: center;
+  font-size: 40px;
+}
+
+#pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pic-button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
